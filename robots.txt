@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shahghiay.r37r0m0d3l.icu/sitemap.xml
